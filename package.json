@@ -1,0 +1,23 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "A repo where I understand and learn TypeScript",
+  "main": "app.js",
+  "scripts": {
+    "start": "lite-server",
+    "compile": "tsc app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakeshpetit/typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakeshpetit/typescript/issues"
+  },
+  "homepage": "https://github.com/rakeshpetit/typescript#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
